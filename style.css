@@ -1,0 +1,103 @@
+body{
+  font-family: 'Roboto Slab', serif;
+}
+#outer-box{
+  background-color: #F8EA8C;
+  margin: 30px 20px;
+  padding: 5rem;
+  padding-right: 5rem;
+}
+#inner-box{
+  background-color: white;
+
+  width: 65rem;
+  margin: 10px auto;
+  text-align: center;
+  border-color: grey;
+  border-radius: 1%;
+  border-style: solid;
+}
+
+#head-1{
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2.3rem;
+}
+#head-2{
+  font-size: 1.3rem;
+  margin-left: 2rem;
+  text-align: left;
+  margin-bottom: 2rem;
+}
+#personal-details
+{
+  border-style: solid;
+  margin: 0 2rem;
+  padding: 3rem;
+  padding-right: 22rem;
+  margin-bottom: 4rem;
+}
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+.pd{
+  margin: 1rem;
+  padding: 1.5rem;
+}
+label[for=colFormLabel]{
+  padding-left: 7px 0;
+  text-align: left;
+}
+#check-apply
+{
+  border-style: solid;
+  margin: 0 2rem;
+  padding: 3rem;
+  padding-right: 22rem;
+  margin-bottom: 4rem;
+}
+#essay-section
+{
+  border-style: solid;
+  margin: 0 2rem;
+  padding: 3rem;
+  padding-right: 22rem;
+  margin-bottom: 4rem;
+}
+.BUTTON_ACB {
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 9px;
+   background-color: #DD380D;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+#political
+{
+  border-style: solid;
+  margin: 0 2rem;
+  padding: 3rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-bottom: 4rem;
+}
